@@ -1,0 +1,933 @@
+[
+    {
+        "nome": "Boina de Espuma Flat Azul Refino Lustro Sem Interface  5,5\" Lincoln",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-refino/boina-de-espuma-flat-azul-5-5-refino-lincoln"
+    },
+    {
+        "nome": "Boina de Espuma Flat Corte Leve Refino 5,5\" Sem Interface Lincoln",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?e620f9f2e522791f186a4c0f3c55cf96",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-espuma-flat-laranja-5-5-corte-lincoln"
+    },
+    {
+        "nome": "Boina Voxer Corte Médio 3\" Espuma Azul Escura Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?e620f9f2e522791f186a4c0f3c55cf96",
+        "link": "https://www.artwax.com.br/marcas/vonixx/boina-voxer-corte-medio-3-espuma-azul-escura-vonixx"
+    },
+    {
+        "nome": "Boina Voxer Corte Médio 5\" Espuma Azul Escura Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?e620f9f2e522791f186a4c0f3c55cf96",
+        "link": "https://www.artwax.com.br/marcas/boina-voxer-corte-medio-5-espuma-azul-escura-vonixx"
+    },
+    {
+        "nome": "Boina Voxer Corte Médio 6\" Espuma Azul Escura Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?e620f9f2e522791f186a4c0f3c55cf96",
+        "link": "https://www.artwax.com.br/marcas/boina-voxer-corte-medio-6-espuma-azul-escura-vonixx"
+    },
+    {
+        "nome": "Boina de lã Híbrida Corte 6\" Sem Interface For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-la-hibrida-mista-branca-corte-para-roto-orbital-6-for-detail"
+    },
+    {
+        "nome": "Boina de Espuma Hyper Verde Corte 6\" Sem Interface Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-espuma-hyper-verde-corte-6-sem-interface-kers"
+    },
+    {
+        "nome": "Boina de Espuma Hyper Azul Lustro 6\" Sem Interface Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/uso-externo/boina-de-espuma-lustro-hyper-6-sem-interface-kers"
+    },
+    {
+        "nome": "Boina de Espuma Hyper Laranja Média Refino 6\" Sem Interface Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-refino/boina-de-espuma-hyper-laranja-media-refino-6-sem-interface-kers"
+    },
+    {
+        "nome": "Boina Jeans Hard Cut Corte Pesado 6\" Com Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-jeans-hard-cut-corte-pesado-6-detailer"
+    },
+    {
+        "nome": "Boina Jeans Hard Cut Corte Pesado 3\" Com Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-jeans-hard-cut-corte-pesado-3-detailer"
+    },
+    {
+        "nome": "Boinas Jeans Hard Cut Corte Pesado 3\" e 6\" Detailer Kit  2 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-boinas-jeans-hard-cut-corte-pesado-detailer-3-e-6"
+    },
+    {
+        "nome": "Boina de Algodão Agressiva 5\" Para Polimento De Vidros Mills",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boina-de-algodao-agressiva-5-para-polimento-de-vidros-mills"
+    },
+    {
+        "nome": "Boina de Algodão Agressiva 3\" Para Polimento De Vidros Mills",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?bce5b8e4cdbcecc45391ff35efc7bba8",
+        "link": "https://www.artwax.com.br/boina-de-algodao-agressiva-3"
+    },
+    {
+        "nome": "Boina de Lã Hibrida Corte 3\" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-la-hibrida-corte-3-sem-interface-artwax"
+    },
+    {
+        "nome": "Boina de Feltro Para Polimento de Vidros 5\" Dune Glass  Alcance",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/uso-externo/vidros/alcance-dune-glass-5-boina-de-feltro-para-polimento-de-vidros"
+    },
+    {
+        "nome": "Boina de Espuma Hyper Azul Lustro 5\" Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-lustro/kers-boina-de-espuma-hyper-5-azul-suave-lustro"
+    },
+    {
+        "nome": "Boina de Espuma Hyper 5\" Verde Agressiva Corte Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/kers-boina-de-espuma-hyper-5-verde-agressiva-corte"
+    },
+    {
+        "nome": "Boina de Espuma Laranja Hyper Corte Refino Média 5\" Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?bce5b8e4cdbcecc45391ff35efc7bba8",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/kers-boina-de-espuma-hyper-5-laranja-media-corterefino"
+    },
+    {
+        "nome": "Carpro CoolPad 5\" Boina Hibrida de Lã e Microfibra - 1un",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/carpro-coolpad-5-boina-hibrida-de-la-e-microfibra"
+    },
+    {
+        "nome": "Carpro CoolPad 3\" Boina Hibrida de Lã e Microfibra - 1un",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/carpro-coolpad-3-boina-hibrida-de-la-e-microfibra"
+    },
+    {
+        "nome": "Boina Voxer Corte Pesado 3\" Lã Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/boina-voxer-corte-pesado-3-la-vonixx"
+    },
+    {
+        "nome": "Boina Voxer Corte Pesado 5\" Lã Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/boina-voxer-corte-pesado-5-la-vonixx"
+    },
+    {
+        "nome": "Boina Voxer Corte Pesado 6\" Lã Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/boina-voxer-corte-pesado-6-la-vonixx"
+    },
+    {
+        "nome": "Boina de Microfibra Corte Com Interface Detailer 6,5\" Com Velcro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/boina-de-microfibra-corte-com-interface-detailer-6-5-com-velcro"
+    },
+    {
+        "nome": "Boina de Microfibra Corte Com Interface Detailer 3,5\" Com velcro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/boina-de-microfibra-corte-com-interface-detailer-3-5-com-velcro"
+    },
+    {
+        "nome": "Boina Polimento De Vidros Carpete 5\"",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?e620f9f2e522791f186a4c0f3c55cf96",
+        "link": "https://www.artwax.com.br/boina-polimento-de-vidros-carpete-5"
+    },
+    {
+        "nome": "Boina de Espuma Refino 5,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?bce5b8e4cdbcecc45391ff35efc7bba8",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-amarela-refino-5-5-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Refino 6,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-amarela-refino-6-5-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Branca Refino 3\" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-refino/boina-de-espuma-branca-refino-3-artwax"
+    },
+    {
+        "nome": "Boinas Microfibra Corte Com Interface 3,5\" e 6,5\" Detailer kit 2 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-de-boinas-microfibra-corte-com-interface-3-5-e-6-5-detailer"
+    },
+    {
+        "nome": "Clay Bar Mágico Disco de Descontaminação Suave 6\" Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kers-clay-bar-magico-disco-de-descontaminacao-suave-6"
+    },
+    {
+        "nome": "Boina Face Unica com Eva Kawazaki 6\" For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-face-unica-com-eva-kawazaki-6-for-detail"
+    },
+    {
+        "nome": "Boina Dupla Face Kawazaki 6\" Fio Especial For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?bce5b8e4cdbcecc45391ff35efc7bba8",
+        "link": "https://www.artwax.com.br/boina-dupla-face-kawazaki-6-fio-especial-for-detail"
+    },
+    {
+        "nome": "Boina Dupla Face Kawazaki 8\" Fio Especial For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?bce5b8e4cdbcecc45391ff35efc7bba8",
+        "link": "https://www.artwax.com.br/boina-dupla-face-kawazaki-8-fio-especial-for-detail"
+    },
+    {
+        "nome": "Boina Face Unica com Eva Kawazaki 5\" For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-face-unica-com-eva-kawazaki-5-for-detail"
+    },
+    {
+        "nome": "Boina Face Única sem Eva Kawazaki 6\" For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-face-unica-sem-eva-kawazaki-6-for-detail"
+    },
+    {
+        "nome": "Boina Face Única Sem E.V.A Kawazaki 5\" For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-face-unica-sem-e-v-a-kawazaki-5-for-detail"
+    },
+    {
+        "nome": "Kit de Boinas Voxer Corte Pesado Médio Refino e Lustro 6\" Vonixx 5 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/kit-de-boinas-voxer-6-vonixx-5-unidades"
+    },
+    {
+        "nome": "Kit de Boinas Voxer Corte Pesado Médio Refino e Lustro 5\" Vonixx 5 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/kit-de-boinas-voxer-5-vonixx-5-unidades"
+    },
+    {
+        "nome": "Kit Boinas Voxer 3\"",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/kit-de-boinas-voxer-3-vonixx-4-unidades"
+    },
+    {
+        "nome": "Boina de Espuma Corte 6,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-laranja-corte-6-5-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Corte 5,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-laranja-corte-5-5-detailer"
+    },
+    {
+        "nome": "Boina Para Polimento de Vidros 3\" Katana Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-para-polimento-de-vidros-3-katana-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Laranja Corte 3\" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-espuma-laranja-corte-3-artwax"
+    },
+    {
+        "nome": "Suporte Para Boina Flex Rotativa 1\" Rosca 5/8\" Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/suporte-para-boina-flex-rotativa-1-rosca-58-vonixx"
+    },
+    {
+        "nome": "Suporte Ventilado Roto Orbital 6\" Voxer Rosca M8 Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/vonixx-suporte-ventilado-roto-orbital-6-voxer-rosca-m8"
+    },
+    {
+        "nome": "Vonixx Suporte Ventilado Roto Orbital 5\" Voxer Rosca M8",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/vonixx-suporte-ventilado-roto-orbital-5-voxer-rosca-m8"
+    },
+    {
+        "nome": "Boina Para Polimento de Vidros 5\" Katana Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-para-polimento-de-vidros-5-katana-detailer"
+    },
+    {
+        "nome": "Boina De Espuma Branca Com Velcro Corte Agressivo 6\" For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-espuma-agressiva-branca-corte-6-com-furo-for-detail"
+    },
+    {
+        "nome": "Boina SDO CCS Azul Corte Sem Interface 5\" Lake Country",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-sdo-ccs-azul-corte-5-lake-country"
+    },
+    {
+        "nome": "Boina SDO CCS Preta Lustro Sem Interface 6\" Lake Country",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-sdo-ccs-preta-lustro-6-lake-country"
+    },
+    {
+        "nome": "Boina SDO CCS Preta Lustro Sem Interface 5\" Lake Country",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-sdo-ccs-preta-lustro-sem-interface-5-lake-country"
+    },
+    {
+        "nome": "Boina SDO CCS Laranja Refino Sem Interface 6\" Lake Country",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-sdo-ccs-laranja-refino-6-lake-country"
+    },
+    {
+        "nome": "Boina SDO CCS Laranja Refino Sem Interface 5\" Lake Country",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-sdo-ccs-laranja-refino-5-lake-country"
+    },
+    {
+        "nome": "Boina de Algodão Suave 5\" Para Polimento De Vidros Mills",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/polidores/boina-de-algodao-suave-5"
+    },
+    {
+        "nome": "Boina de Algodão Suave 3\" Para Polimento De Vidros Mills",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boina-de-algodao-suave-3"
+    },
+    {
+        "nome": "Boinas SDO CCS 5\" Corte Refino Lustro Lake Country Kit 3 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/kit-boinas-sdo-ccs-5-corte-refino-lustro-lc-3-unidades"
+    },
+    {
+        "nome": "Boina de Espuma Force Macia 3,5\" Lustro Cadillac",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/cadillac-boina-de-espuma-force-macia-3-5-corte"
+    },
+    {
+        "nome": "Boina de Espuma Force Media Branca 3,5\" Refino Sem Interface Cadillac",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/cadillac-boina-de-espuma-force-media-branca-3-5-corte"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" SGT-Colors 15MM Rosa SGT-5118 220V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-sgt-colors-15mm-rosa-sgt-5118-220v-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" Colors 15MM Rosa SGT-5118 110V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-colors-15mm-rosa-sgt-5118-110v-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" SGT-Colors 15MM Amarela SGT-5118 220V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-colors-15mm-amarela-sgt-5118-220v-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" Colors 15MM Amarela SGT-5118 110V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-colors-15mm-amarela-sgt-5118-110v-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" Colors 15MM Azul SGT-5118 220V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-colors-15mm-azul-sgt-5118-220v-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" Colors 15MM Laranja SGT-5118 110V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-colors-15mm-110v-laranja-sgt-5118-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" Colors 15MM Preta SGT-5118 220V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-colors-15mm-preta-sgt-5118-220v-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" Colors 15MM Preta SGT-5118 110V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?bce5b8e4cdbcecc45391ff35efc7bba8",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-15mm-colors-sgt-preta-110v"
+    },
+    {
+        "nome": "Boina de Espuma Polishing Pad Laranja 3\" Lustro Carpro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-lustro/boina-de-espuma-polishing-pad-orange-3-lustro-carpro"
+    },
+    {
+        "nome": "Politriz Rotativa 5\" SGT-5127 Red & Shine 1.200W Sigma Tools 110V",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/maquinas-e-equipamentos/politriz-rotativa-5-red-amp-shine-1-200-watts-sgt-5127-110v-sigma-tools"
+    },
+    {
+        "nome": "Boina Alumina Lustro 165mm 6\" Easytech",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/easytech/easytech-boina-alumina-lustro-165mm-6"
+    },
+    {
+        "nome": "Boina de Lã Corte Pesado Pirulito Com Interface 6\" Lincoln",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-la-corte-pesado-sv-pirulito-power-com-interface-para-rotativa-6-lincoln"
+    },
+    {
+        "nome": "Boina de Espuma Flat Azul  Refino Lustro Sem Interface 6\" Lincoln",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-refino/boina-de-espuma-flat-azul-6-refino-lincoln"
+    },
+    {
+        "nome": "Boina de Espuma Flat Laranja Corte Leve Refino Sem Interface 6\" Lincoln",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-espuma-flat-laranja-6-corte-lincoln"
+    },
+    {
+        "nome": "Boina de Espuma Corte Leve 6,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-azul-corte-leve-6-5-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Corte Leve 5,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-azul-corte-leve-5-5-detailer"
+    },
+    {
+        "nome": "Boina Dupla Face Fio Macia 8\" Amarela  320171 Lincoln",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-de-espuma-8-dupla-face-fio-macia-amarelo-320171-lincoln"
+    },
+    {
+        "nome": "Boina de Lã Híbrida Corte 5\" Sem Interface For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-la-hibrida-mista-branca-para-roto-orbital-5-130mm-for-detail"
+    },
+    {
+        "nome": "Boina de Carpete Para Polimento de Vidro 3\" Resolvidro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-de-carpete-para-polimento-de-vidro-3-resolvidro"
+    },
+    {
+        "nome": "Measure Frasco de Dosagem 100ML Carpro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/measure-frasco-de-dosagem-100ml-carpro"
+    },
+    {
+        "nome": "Boina Jeans Hard Cut Corte Pesado 5\" Com Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-jeans-hard-cut-corte-pesado-5-detailer"
+    },
+    {
+        "nome": "Boinas Jeans Hard Cut Corte Pesado 3\" e 5\" Detailer Kit 2 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-boinas-jeans-hard-cut-corte-pesado-detailer-3-e-5"
+    },
+    {
+        "nome": "Boina De Espuma Branca Com Velcro Lustro 6\" Polimento For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-lustro/boina-espuma-de-lustro-6-com-furo-for-detail"
+    },
+    {
+        "nome": "Boina Espuma de Lustro 5\" Sem Interface For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-lustro/boina-espuma-de-lustro-preta-5-127mm-com-furo-for-detail"
+    },
+    {
+        "nome": "Boina de Lã Hibrida Corte 5\" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-la-hibrida-corte-5-sem-interface-artwax"
+    },
+    {
+        "nome": "Boina de Lã Curta Média Hyper 5\" Com Interface Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/kers-boina-de-la-curta-hyper-5-media"
+    },
+    {
+        "nome": "Jogo de Boinas 5\" Espuma e Lã Hyper Kit 4 Unidades Kers",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kers-boina-de-la-curta-hyper-5-agressiva-corte-pesado"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\" 900W -220V Com Suporte de Parede + Composto Polidor One 3 em 1 500ml For Detail Kit 3 itens",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-politriz-roto-orbital-15mm-5-900w-220v-com-suporte-de-parede-composto-polidor-one-3-em-1-500ml-for-detail"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\" 900W -110V Com Suporte de Parede + Composto Polidor One 3 em 1 500ml For Detail Kit 3 itens",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-politriz-roto-orbital-15mm-5-900w-110v-com-suporte-de-parede-composto-polidor-one-3-em-1-500ml-for-detail"
+    },
+    {
+        "nome": "Kit Politriz Orbital 5\" Voxer 15mm 220v + Compostos Polidores - Revelax e Limpa Boinas Vonixx",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-politriz-orbital-5-voxer-15mm-220v-compostos-polidores-revelax-e-limpa-boinas-vonixx"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\" 900W/60Hz 110v + Jogo de Boinas Artwax e Composto Polidor For Detail Kit 6 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-politriz-roto-orbital-15mm-5-900w60hz-110v-jogo-de-boinas-e-composto-polidor-fordtail"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\" 900W/60Hz 220v + Jogo de Boinas Artwax e Composto Polidor For Detail Kit 6 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-politriz-roto-orbital-15mm-5-900w60hz-220v-jogo-de-boinas-e-composto-polidor-fordtail"
+    },
+    {
+        "nome": "Boina de Microfibra Corte Com Interface Detailer 5,5\" Com Velcro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/boina-de-microfibra-corte-com-interface-detailer-5-5-com-velcro"
+    },
+    {
+        "nome": "Politriz Roto Orbital Gold Yes Tools 15mm 110v Kers + Jogo de Boinas Artwax 5\" Kit 5 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kers-politriz-roto-orbital-gold-yes-tools-15mm-110v-jogo-de-boinas-for-detail-5"
+    },
+    {
+        "nome": "Boina de Espuma Branca Refino 5\" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-refino/boina-de-espuma-branca-refino-5-artwax"
+    },
+    {
+        "nome": "Kit de Boinas Microfibra Corte com Interface 3,5\" e 5,5\" Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-de-boinas-microfibra-corte-com-interface-3-5-e-5-5-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Lustro 5,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-verde-lustro-5-5-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Lustro 6,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-verde-lustro-6-5-detailer"
+    },
+    {
+        "nome": "Kit Politriz Roto Orbital 15mm Giro Livre Red & Shine SGT 5116 220V 900w Sigma Tools + Jogo de Boinas 5\" Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/politriz-roto-orbital-15mm-red-shine-sgt-5116-220v-900w-sigma-tools-jogo-de-boinas-for-detail-5"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm Giro Livre Red & Shine SGT 5116 - 110v 900w Sigma Tools + Jogo de Boinas Artwax 5\" Kit  5 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/politriz-roto-orbital-15mm-red-shine-sgt-5116-110v-900w-sigma-tools-jogo-de-boinas-for-detail-5"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\" 900W/60Hz For Detail - 220V",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/maquinas-e-equipamentos/politriz-e-roto-orbital/politriz-roto-orbital-15mm-5-sgt5116-220v-900w60hz-for-detail"
+    },
+    {
+        "nome": "Boina de Espuma Super Lustro 6,5\" Sem Interface Detailer",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/detailer/boina-de-espuma-vermelha-super-macia-6-5-detailer"
+    },
+    {
+        "nome": "Boina de Espuma Polishing Pad Laranja 5\" Refino - Lustro Carpro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-de-espuma-laranja-corte-5-5-detailer"
+    },
+    {
+        "nome": "Boina Speed Polish Lã Natural Nobre Car 1\" Corte  - 2un",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-speed-polish-la-natural-nobre-car-1-corte"
+    },
+    {
+        "nome": "Lixadeira Orbital 6\" com Aspiração SGT-0319",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/sgt-0319-lixadeira-orbital-6-com-aspiracao"
+    },
+    {
+        "nome": "Boina de Espuma Preta Lustro 5\" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-lustro/boina-de-espuma-preta-lustro-5-artwax"
+    },
+    {
+        "nome": "Boina de Espuma Laranja Corte 5\" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-espuma-laranja-corte-5-artwax"
+    },
+    {
+        "nome": "Boina de Espuma Preta Lustro 3 \" Sem Interface Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-lustro/boina-de-espuma-preta-lustro-3-artwax"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\" 900W/60Hz 220v + Jogo de Boinas Artwax Kit 5 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-politriz-roto-orbital-15mm-5-900w60hz-220v-jogo-de-boinas-for-detail"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\" 900W/60Hz 110v + Jogo de Boinas Artwax Kit  5 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-politriz-roto-orbital-15mm-5-900w60hz-110v-jogo-de-boinas-for-detail"
+    },
+    {
+        "nome": "Boinas de Espuma 6,5\" Corte Refino e Lustro Sem Interface Detailer Kit 3 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kit-de-boinas-de-espuma-5-5-polegadas-corte-refino-e-lustro-detailer-8273"
+    },
+    {
+        "nome": "Boinas de Espuma 5,5\" Corte Refino e Lustro Sem Interface Detailer Kit 3 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kit-de-boinas-de-espuma-5-5-polegadas-corte-refino-e-lustro-detailer"
+    },
+    {
+        "nome": "Kit Adaptadores Para Furadeira M14 Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/uso-interno/kit-adaptadores-para-furadeira-m14-sigma-tools"
+    },
+    {
+        "nome": "Kit Polimento Rotativa 5\" SGT-5127 2210V R&S Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kit-polimento-rotativa-5-sgt-5127-2210v-r-amp-s-sigma-tools"
+    },
+    {
+        "nome": "Kit Polimento Rotativa 5\" SGT-5127 110V R&S Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-polimento-rotativa-5-sgt-5127-110v-r-amp-s-sigma-tools"
+    },
+    {
+        "nome": "Kit Boinas Artwax Sem Interface 3\" Corte Lustro Refino 4 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/kit-boinas-artwax-3-corte-lustro-refino-4-unidades"
+    },
+    {
+        "nome": "Boina SDO CCS Azul Corte Sem Interface 6\" Lake Country",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-sdo-ccs-azul-corte-6-lake-country"
+    },
+    {
+        "nome": "Boina de Lã Hibrida Corte Com Interface 5\" For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-corte/boina-de-la-hibrida-5-corte-com-interface-para-politriz-rotativa-for-detail"
+    },
+    {
+        "nome": "Boina de Espuma Laranja Refino Sem Interface 6\" For Detail",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/boinas/boina-refino/boina-de-espuma-agressiva-suave-laranja-refino-6-com-furo-for-detail"
+    },
+    {
+        "nome": "Kit Polimento Roto Orbital 21mm Giro Livre R&S SGT 5122 - 220V 900W Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kit-polimento-roto-orbital-21mm-giro-livre-r-amp-s-sgt-5122-220v-900w-sigma-tools"
+    },
+    {
+        "nome": "Kit Polimento Roto Orbital 21mm Giro Livre R&S SGT 5122 - 220v 900W Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-polimento-roto-orbital-21mm-900w-r-amp-s-220v-sigma-tools"
+    },
+    {
+        "nome": "Boinas SDO CCS 6\" Corte Refino Lustro Lake Country Kit 3 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/kit-de-boinas-sdo-ccs-6-polegadas-corte-refino-lustro-lake-country-3-unidades"
+    },
+    {
+        "nome": "Boina Jeans 3\" 75 mm Remoção de Casca de Laranja Denim Pad Carpro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-jeans-3-remove-cascas-de-laranja-denim-pad-orange-peeling-carpro"
+    },
+    {
+        "nome": "Cadillac Boina de Espuma Force Macia 6,5\" Lustro",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/cadillac-boina-de-espuma-force-macia-6-5-corte"
+    },
+    {
+        "nome": "Boina Alumina Corte 165mm 6\" Easytech",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/easytech/easytech-boina-alumina-corte-165mm-6"
+    },
+    {
+        "nome": "Boina de Lã 7,5\"  Polifácil Pele Ninja Corte Pesado 321024 Lincoln Com Interface",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-de-la-8-polifacil-pele-ninja-corte-pesado-321024-lincoln"
+    },
+    {
+        "nome": "Politriz Roto Orbital 5\" Colors 15MM Azul SGT-5118 110V Sigma Tools",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/marcas/politriz-roto-orbital-5-colors-15mm-azul-sgt-5118-110v-sigma-tools"
+    },
+    {
+        "nome": "Politriz Roto Orbital 15mm 5\"  900W/60Hz For Detail - 110V",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/maquinas-e-equipamentos/politriz-e-roto-orbital/politriz-roto-orbital-15mm-5-sgt5116-100v-900w60hz-for-detail"
+    },
+    {
+        "nome": "Boina de lã 2\" Corte Sem Interface 320744 Lincoln",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/boina-de-la-2-corte-pesado-sem-interface-320744-lincoln"
+    },
+    {
+        "nome": "Disco Interface com velcro 5\" Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/disco-interface-com-velcro-5-artwax"
+    },
+    {
+        "nome": "Disco Interface Com Velcro 3\" Artwax",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/polimento/disco-interface-com-velcro-3-artwax"
+    },
+    {
+        "nome": "Boinas 6\" com Furo For Detail Kit 4 Unidades",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/kits/kit-jogo-de-boinas-6-com-furo-for-detail"
+    },
+    {
+        "nome": "Compressor a Bateria de Litio 18v",
+        "descricao": "Descrição não encontrada",
+        "preco": "Preço não encontrado",
+        "imagem": "https://images.tcdn.com.br/files/606785/themes/95/img/settings/casa.png?8d0a93ae6301f11fb3959efd9fc0d673",
+        "link": "https://www.artwax.com.br/compressor-a-bateria-de-litio-18v"
+    }
+]
