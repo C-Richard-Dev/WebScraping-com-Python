@@ -1,9 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re 
 
 # Lista de links do seu JSON original
-with open("link_teste.json", "r", encoding="utf-8") as f:
+with open("links_produtos.json", "r", encoding="utf-8") as f:
     links = json.load(f)
 
 produtos = []
@@ -17,13 +18,10 @@ for i, url in enumerate(links):
         soup = BeautifulSoup(response.content, "html.parser")
 
         script_tag = soup.find("script", type="application/ld+json")
-        if not script_tag:
-            raise ValueError("Script JSON-LD não encontrado")
-
         try:
-            data = json.loads(script_tag.string)
-        except json.JSONDecodeError as e:
-            raise ValueError(f"JSON ERRO: {e}")
+            data = json.loads(script_tag.string) if script_tag else {}
+        except json.JSONDecodeError:
+            data = {}
 
         # Buscar link da tabela fispq
         fispq_link = None
@@ -33,20 +31,41 @@ for i, url in enumerate(links):
                 fispq_link = a_tag["href"]
                 break
 
-
-        
+        # Capturando o nome pelo html
+        nome_tag = soup.find("h1", class_="product-name")
+        nome_completo = nome_tag.get_text(separator="\n", strip=True) if nome_tag else data.get('product-name') 
 
         # Configurando para que a descrição seja capturada na tag div do Html da pagina
         descricao_tag = soup.find("div", class_="tab rte description-ab active")
         descricao_completa = descricao_tag.get_text(separator="\n", strip=True) if descricao_tag else data.get('description')
 
+        # Capturando o preço pelo html
+        preco_tag = soup.find("span", id="info_preco")
+        preco_completo = preco_tag.get_text(separator="", strip=True) if preco_tag else None
+        preco_formatado = None # Formatando o preco para que capture apenas o valor monetário do produto 
+        if preco_completo:
+            match = re.search(r'R\$[\d.,]+', preco_completo)
+            if match:
+                preco_formatado = match.group(0)
+
+        # Capturando a imagem pelo html
+        imagem_tag = soup.find("img", class_="swiper-lazy")
+        if imagem_tag:
+            imagem_completa = imagem_tag.get("src") or imagem_tag.get("data-src")
+        else:
+            imagem_completa = None
+
+        # Capturando a marca pelo html
+        marca_tag = soup.find("div", class_="product-brand")
+        marca_completo = marca_tag.get_text(strip=True) if marca_tag else data.get('product-brand')
+
         produto_data = {
-            "nome": data.get("name"),
+            "nome":  nome_completo,
             "descricao": descricao_completa,
-            "preco": data.get("offers", {}).get("price"),
-            "imagem": data.get("image"),
-            "link": data.get("offers", {}).get("url"),
-            "marca": data.get("brand", {}).get("name"),
+            "preco": preco_formatado,
+            "imagem": imagem_completa,
+            "link": url,
+            "marca": marca_completo,
             "fispq": fispq_link
         }
 
@@ -57,11 +76,11 @@ for i, url in enumerate(links):
         erros.append(url)
 
 # Salvar os dados coletados
-with open("produtos_teste.json", "w", encoding="utf-8") as f:
+with open("produtos.json", "w", encoding="utf-8") as f:
     json.dump(produtos, f, indent=4, ensure_ascii=False)
 
 # Salvar os links com erro
-with open("erros_teste.txt", "w", encoding="utf-8") as f:
+with open("erros.txt", "w", encoding="utf-8") as f:
     for link in erros:
         f.write(link + "\n")
 
